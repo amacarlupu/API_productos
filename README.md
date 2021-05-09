@@ -22,7 +22,6 @@ npm install
 
 - **Code:** 200 <br />
   **Content:**
-  ```
 {
                     id: 5,
                     name: "ENERGETICA MR BIG",
@@ -35,7 +34,7 @@ npm install
                         name: "bebida energetica"
                     }
                 }
-                ```
+          
 
 - **URL**
 
