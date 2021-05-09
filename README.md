@@ -1,8 +1,8 @@
 # API Productos
 
-_Contiene la lista con los productos y sus categorias._
+_Contiene la lista de los productos y sus categorias. Esta API REST fue realizada con las tecnologías NodeJS y Expres para el servidor, la conexión a la base de datos fue mediante el ORM Sequelize. lineas abajo se detallan los endpoints utilizados_
 
-### Instalación 🔧
+## Instalación 🔧
 
 _Instalar los modulos de node_
 
@@ -12,9 +12,11 @@ npm install
 
 - **URL**
 
+  _Endpoint para obtener todos los productos_
+  
   _https://ejercicio-producto.herokuapp.com/tienda/producto/all_
 
-- **Method:**
+- **Metodo:**
 
   `GET`
 
@@ -36,6 +38,8 @@ npm install
 
 
 - **URL**
+
+  _Endpoint para obtener los productos filtrados por nombre del Producto_
 
   _https://ejercicio-producto.herokuapp.com/tienda/producto/name/{nombreProducto}_
 
@@ -66,6 +70,8 @@ npm install
     
 
 - **URL**
+
+  _Endpoint para obtener los productos filtrados por codigo de categoria_
 
   _https://ejercicio-producto.herokuapp.com/tienda/producto/category/{:idCategoria}_
 
