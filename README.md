@@ -41,7 +41,7 @@ npm install
 
   _Endpoint para obtener los productos filtrados por nombre del Producto_
 
-  _https://ejercicio-producto.herokuapp.com/tienda/producto/name/{nombreProducto}_
+  _https://ejercicio-producto.herokuapp.com/tienda/producto/name/{ :nombreProducto }_
 
 - **Method:**
 
@@ -74,7 +74,7 @@ npm install
 
   _Endpoint para obtener los productos filtrados por codigo de categoria_
 
-  _https://ejercicio-producto.herokuapp.com/tienda/producto/category/{:idCategoria}_
+  _https://ejercicio-producto.herokuapp.com/tienda/producto/category/{ :idCategoria }_
 
 - **Method:**
 
