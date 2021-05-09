@@ -36,7 +36,7 @@ npm install
                     }
                 }`
 
-
+## 
 - **URL**
 
   _Endpoint para obtener los productos filtrados por nombre del Producto_
