@@ -69,6 +69,7 @@ npm install
     **Content:** `{ message: 'No existen resultados.' }`
     
 
+## 
 - **URL**
 
   _Endpoint para obtener los productos filtrados por codigo de categoria_
