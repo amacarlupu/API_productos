@@ -21,18 +21,20 @@ npm install
 - **Success Response:**
 
 - **Code:** 200 <br />
-  "Content": {id: 5,
-              name: "ENERGETICA MR BIG",
-              url_image: "https://dojiw2m9tvv09.cloudfront.net/11132/product/misterbig3308256.jpg",
-              price: 1490,
-              discount: 20,
-              category: 1,
-              categorium: {
-                id: 1,
-                name: "bebida energetica"
-              }
-              }
-          
+  **Content:** `{
+                    id: 5,
+                    name: "ENERGETICA MR BIG",
+                    url_image: "https://dojiw2m9tvv09.cloudfront.net/11132/product/misterbig3308256.jpg",
+                    price: 1490,
+                    discount: 20,
+                    category: 1,
+                    categorium: {
+                        id: 1,
+                        name: "bebida energetica"
+                    }
+                }`
+
+
 - **URL**
 
   _https://ejercicio-producto.herokuapp.com/tienda/producto/name/{nombreProducto}_
