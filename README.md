@@ -104,6 +104,6 @@ npm install
   OR
 
   * **Code:** 400 BAD REQUEST <br />
-    **Content:** `{ Tipo de parametro de permitido." }`
+    **Content:** `{ Tipo de parametro no permitido." }`
 
 
